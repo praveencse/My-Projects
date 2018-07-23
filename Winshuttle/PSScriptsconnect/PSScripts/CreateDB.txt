@@ -1,0 +1,11 @@
+C:\Users\ppeddigari>sqlcmd -S "tcp:10.30.9.48,56737" -Q "Create database Test" -U "ConnectTestUser" -P "$abcd12345"
+
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>aspnet_regsql.exe -S "tcp:10.30.9.48,56737" -U "Demo1" -P "$abcd12345" -A all -d Test
+
+ Invoke-SqlCmd [[-Query] <string>] [-AbortOnError <Boolean>] [-ConnectionTimeout <int>] [-Database <string>]
+ [-DedicatedAdministratorConnection <Boolean>] [-DisableCommands <Boolean>] [-DisableVariables <Boolean>]
+ [-EncryptConnection <Boolean>] [-ErrorLevel <int>] [-HostName <string>] [-IgnoreProviderContext <Boolean>]
+ [-InputFile <string>] [-MaxBinaryLength <int>] [-MaxCharLength <int>] [-NewPassword <string>] [-OutputSqlErrors
+ <Boolean>] [-Password <string>] [-QueryTimeout <int>] [-ServerInstance <psobject>] [-SeverityLevel <int>]
+ [-SuppressProviderContextWarning <Boolean>] [-Username <string>] [-Variable <string[]>] [<CommonParameters>]

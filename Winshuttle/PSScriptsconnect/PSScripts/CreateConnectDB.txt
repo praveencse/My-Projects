@@ -1,0 +1,16 @@
+USE [master]
+GO
+
+IF  EXISTS (SELECT name FROM sys.databases WHERE name = N'MyTestDatabase')
+DROP DATABASE [MyTestDatabase]
+GO
+
+USE [master]
+GO
+
+/****** Creating Database [MyTestDatabase]  ******/
+PRINT 'Creating Database...'
+CREATE DATABASE [MyTestDatabase]
+GO
+PRINT 'Database created successfully...'
+GO
