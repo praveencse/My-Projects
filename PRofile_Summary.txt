@@ -1,0 +1,8 @@
+ Certified Azure  Cloud Solution Architect  & comprehensive knowledge on AWS Cloud Services
+As MyToll platform Lead Architect ,have design and implemented Event Driven Architecture   with near real time user experience.   
+Explored new digital technologies and govern the design of the ideal system architecture for the ANZ payments  platform. 
+Lead the software engineering team from concept to implementation for the Microservices based architecture ( involving Business  Analysts,  developers,  testers and Devops Engineers).
+Comprehensive knowledge in the areas IoT, M2M , Microservices , Cloud infrastructures                 Application  development  as well as in the software development tools and methods.
+Worked  closely with external stackholders,business and business analysts on understanding the business requirements.Analyze business requirements define technical  specifications and assess overall technical architecture impact.
+Provided expertise and consulting services on  technologies  including   Reactive systems,Contextbased,user experience, front end and backend frameworks, architectural  & design patterns.
+Evaluated and obtained alignment on technology standards, patterns,  and reference architecture ( Middleware , MultiMedia protocols ,  MicroController based IOT solutions).
